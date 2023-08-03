@@ -10,12 +10,14 @@
 
 1. **Database**. I'm not using an API and just make a simple server using **JSON Server**, so before you start this project you need to activate the server (the steps are described below).
 2. **Dummy Data**. Didn't have time to take photos of the original item, so I used random photos from the internet.
-3. **UI**. The UI that still needs to be improved
+3. **UI**. The UI that still needs to be improved.
+
+#### For case 1 and case 2, you can find it in the src/logic test folder.
 
 ### `Deploy URL`
 
 I'm using **Firebase** to deploy this project.\
-You can click [here](https://pura-pura-adventure.web.app/) to visit the deployment
+You can click [here](https://pura-pura-adventure.web.app/) to visit the deployment.
 
 ### `npm install`
 
