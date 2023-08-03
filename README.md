@@ -8,7 +8,7 @@
 
 #### Due to time constraints, so this project still has a lot to improve. There are :
 
-1. **Database**. I'm not using an API and just make a simple server using **JSON Server**, so before you start this project you need to activate the server (the steps are described below).
+1. **Database**. I'm not using an API and just make a simple Mock API.
 2. **Dummy Data**. Didn't have time to take photos of the original item, so I used random photos from the internet.
 3. **UI**. The UI that still needs to be improved.
 
@@ -22,11 +22,6 @@ You can click [here](https://pura-pura-adventure.web.app/) to visit the deployme
 ### `npm install`
 
 To install all of the packages
-
-### `npm start:server`
-
-Runs the **JSON Server** for fetching the Dummy Data.\
-Open [http://localhost:3001/data](http://localhost:3000) to view it in your browser.
 
 ### `npm start`
 
