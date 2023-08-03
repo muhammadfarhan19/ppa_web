@@ -6,6 +6,42 @@
   scroll-behavior: smooth;
 }
 
+/*
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-button {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: #e1e1e1;
+  border: 48px solid #ffffff;
+  border-radius: 94px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #ff0000;
+}
+::-webkit-scrollbar-track {
+  background: #666666;
+  border: 88px solid #ffffff;
+  border-radius: 27px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+::-webkit-scrollbar-track:active {
+  background: #333333;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+*/
+
 .container {
   width: 100vw;
   height: 100vh;
@@ -146,15 +182,10 @@ nav {
   cursor: pointer;
   font-size: 16px;
   text-align: left;
-  box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
-  -webkit-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 8px 21px 0px rgba(0,0,0,0.75);
-}
-
-
-.contact-btn a {
+  box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.75);
   color: #0a0a0a;
-  text-decoration: none;
   font-weight: 600;
 }
 
