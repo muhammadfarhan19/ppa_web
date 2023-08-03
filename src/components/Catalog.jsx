@@ -9,7 +9,7 @@ function Catalog() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://localhost:3001/data')
+        const response = await fetch('https://64c14d86fa35860baea05ea3.mockapi.io/restaurant/products')
         const data = await response.json();
         setData(data)
         return data;
