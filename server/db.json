@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "carrier 60 L",
+      "imageUrl": "https://w7.pngwing.com/pngs/970/395/png-transparent-backpack-rock-climbing-equipment-mountaineering-bag-climbing-luggage-bags-sport-backpack-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "name": "kompor",
+      "imageUrl": "https://w7.pngwing.com/pngs/545/894/png-transparent-jetboil-portable-stove-cooking-ranges-fuel-stove-cook-cooking-electricity-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "name": "sepatu",
+      "imageUrl": "https://w7.pngwing.com/pngs/209/829/png-transparent-hiking-boot-backpacking-mountaineering-boot-shoe-orange-grey-outdoor-shoe-hiking-shoe-hiking-boot-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "name": "headlamp",
+      "imageUrl": "https://w7.pngwing.com/pngs/927/968/png-transparent-flashlight-headlamp-tool-lumen-light-headlamp-head-light-thumbnail.png"
+    },
+    {
+      "id": 5,
+      "name": "sarung tangan",
+      "imageUrl": "https://w7.pngwing.com/pngs/396/395/png-transparent-glove-woolen-gloves-blue-image-file-formats-winter-thumbnail.png"
+    },
+    {
+      "id": 6,
+      "name": "tenda",
+      "imageUrl": "https://www.pngarts.com/files/4/Camping-Tent-PNG-High-Quality-Image.png"
+    },
+    {
+      "id": 7,
+      "name": "sleeping bag",
+      "imageUrl": "https://w7.pngwing.com/pngs/355/160/png-transparent-dry-bag-gunny-sack-sleeping-bags-stuff-sack-bag-backpack-textile-accessories-thumbnail.png"
+    },
+    {
+      "id": 8,
+      "name": "jaket",
+      "imageUrl": "https://w7.pngwing.com/pngs/771/639/png-transparent-jacket-mountain-hardwear-daunenjacke-parka-down-feather-jacket-orange-hoodie-ueli-steck-thumbnail.png"
+    }
+  ]
+}
